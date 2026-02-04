@@ -20,17 +20,13 @@ A collection of focused finance mini projects applying specific frameworks and a
 - Mutual fund performance and risk evaluation  
 - DuPont-based ROE and ROA decomposition  
 
-(See: **Finance-Mini-Projects** repository)
-
 ## ✍️ LinkedIn Articles & Market Insights
 
 A curated set of finance and market articles originally published on LinkedIn, covering:
 - Equity research concepts  
-- Mutual funds and portfolio analysis  
+- Technical Analysis of Stocks and Indices  
 - Company and sector insights  
 - Macroeconomic and market education topics  
-
-(See: **LinkedIn-Articles** repository)
 
 ## 🛠 Skills & Tools
 - Equity research & valuation  
@@ -39,8 +35,7 @@ A curated set of finance and market articles originally published on LinkedIn, c
 - Mutual fund risk & performance analysis  
 - Excel & financial modeling  
 - Investment writing and market communication
-
+  
 ---
-
 ## ⚠️ Disclaimer
 All work presented here is for learning, research, and educational purposes only and does not constitute investment advice.
